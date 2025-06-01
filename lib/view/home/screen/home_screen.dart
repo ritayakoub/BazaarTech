@@ -1,6 +1,6 @@
 import 'dart:ui';
 import 'package:bazaar2/view/Dashboard/screen/dashboard.dart';
-import 'package:bazaar2/view/home/widgets/drawer.dart';
+import 'package:bazaar2/view/drawer/screen/drawer.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:bazaar2/core/const_data/app_colors.dart';
